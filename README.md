@@ -1,4 +1,4 @@
-# BlackBox 
+# BlackBox ⚠️
 
 A terminal screensaver for staring at while doing absolutely nothing —
 in the spirit of `cmatrix`, `pipes.sh`, and `cbonsai`, but themed
